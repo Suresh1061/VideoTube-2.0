@@ -4,13 +4,6 @@
 
 VideoTube is a YouTube-inspired web application that I created using React, Redux Toolkit, Tailwind CSS, Node.js, Express.js, and MongoDB. This project not only replicates many of YouTube's core functionalities but also integrates Twitter-like tweet features. The application is organized into two main folders: `client` (frontend) and `server` (backend). Detailed documentation for this project can be found in the links below.
 
-## Important Links
-
-| Content            | Link                                                                        |
-| ------------------ | --------------------------------------------------------------------------- |
-| API Documentation  | [Click Here](https://documenter.getpostman.com/view/28570926/2s9YsNdVwW)    |
-| Data Model         | [Click Here](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)          |
-
 ## Features
 
 ### User Management
@@ -72,13 +65,13 @@ VideoTube is a YouTube-inspired web application that I created using React, Redu
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/Hruthik-28/youtube-twitter.git
+    git clone https://github.com/Suresh1061/VideoTube-2.0.git
     ```
 
 2. **Install Dependencies**
 
     ```bash
-    cd youtube-twitter
+    cd VideoTube-2.0
     npm install
     ```
 
